@@ -1,0 +1,35 @@
+# Project-wide
+.gradle
+/build
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+/.idea/caches
+/captures
+.externalNativeBuild
+.cxx
+
+# Module-specific
+app/build
+/app/local.properties
+
+# Android Studio / IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+/out/
+
+# Kotlin
+.kotlin/
+/scripts/
+/*.log
+
+# OS generated
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
